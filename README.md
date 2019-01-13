@@ -108,6 +108,17 @@ https://cds.ismrm.org/protected/18MPresentations/abstracts/0798.html
 
 # 4 Base Image sequence
 
+#### Normal Values of Magnetic Relaxation Parameters of Spine Components with the Synthetic MRI Sequence
+[link] http://www.ajnr.org/content/39/4/788
+[pdf] https://www.researchgate.net/profile/Maria_Vargas8/publication/323498755_Normal_Values_of_Magnetic_Relaxation_Parameters_of_Spine_Components_with_the_Synthetic_MRI_Sequence/links/5aa8dcf6a6fdcc1b59c67325/Normal-Values-of-Magnetic-Relaxation-Parameters-of-Spine-Components-with-the-Synthetic-MRI-Sequence.pdf
+[bib] @article{drake2018normal,
+  title={Normal Values of Magnetic Relaxation Parameters of Spine Components with the Synthetic MRI Sequence},
+  author={Drake-P{\'e}rez, M and Delattre, BMA and Boto, J and Fitsiori, A and Lovblad, K-O and Boudabbous, Sana and Vargas, MI},
+  journal={American Journal of Neuroradiology},
+  year={2018},
+  publisher={Am Soc Neuroradiology}
+}
+
 # 5 Readout strategy including trajectory, interleaves, degree of undersampling
 
 
@@ -150,6 +161,45 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 # 9 Pattern recognition algorithm
 
 # 10 Partial Volume Effect, PVE
+
+#### Bayesian estimation of multicomponent relaxation parameters in magnetic resonance fingerprinting
+Jiang
+
+[link]
+[pdf]
+[bib] @article{mcgivney2018bayesian,
+  title={Bayesian estimation of multicomponent relaxation parameters in magnetic resonance fingerprinting},
+  author={McGivney, Debra and Deshmane, Anagha and Jiang, Yun and Ma, Dan and Badve, Chaitra and Sloan, Andrew and Gulani, Vikas and Griswold, Mark},
+  journal={Magnetic resonance in medicine},
+  volume={80},
+  number={1},
+  pages={159--170},
+  year={2018},
+  publisher={Wiley Online Library}
+}
+
+#### Accurate synthetic FLAIR images using partial volume corrected MR fingerprinting
+
+[link] https://www.researchgate.net/publication/327344394_Accurate_Synthetic_FLAIR_Images_Using_Partial_Volume_Corrected_MR_Fingerprinting
+[pdf]
+[bib] @inproceedings{deshmane2016accurate,
+	title={Accurate synthetic FLAIR images using partial volume corrected MR fingerprinting},
+	author={Deshmane, A and McGivney, D and Badve, C and Yu, A and Jiang, Y and Ma, D and Griswold, MA},
+	booktitle={Proceedings of the Annual Meeting and Exhibition of International Society for Magnetic Resonance in Medicine},
+	pages={7--13},
+	year={2016}
+}
+
+#### Multicompartment Magnetic Resonance Fingerprinting
+[link] http://iopscience.iop.org/article/10.1088/1361-6420/aad1c3     https://arxiv.org/abs/1802.10492
+[pdf] https://sci-hub.tw/10.1088/1361-6420/aad1c3                     https://arxiv.org/pdf/1802.10492.pdf 
+[bib] @article{tang2018multicompartment,
+	title={Multicompartment Magnetic Resonance Fingerprinting},
+	author={Tang, Sunli and Fernandez-Granda, Carlos and Lannuzel, Sylvain and Bernstein, Brett and Lattanzi, Riccardo and Cloos, Martijn and Knoll, Florian and Assl{\"a}nder, Jakob},
+	journal={arXiv preprint arXiv:1802.10492},
+	year={2018}
+}
+
 
 # 11 Acceleration of MRF
 
