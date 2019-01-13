@@ -52,6 +52,7 @@ https://cds.ismrm.org/protected/18MPresentations/abstracts/0798.html
 
 
 # 6 Acquisition parameter space to be manipulated
+T1, T2, PD, M0, B0, B1, B1*, T2*, ADC, ASL, Water Fraction Score， $\Delta$ B
 ## 6.1 T1 T2
 ### Simultaneous T1 and T2 brain relaxometry in asymptomatic volunteers using magnetic resonance fingerprinting
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4727840/
@@ -72,6 +73,14 @@ https://www.researchgate.net/publication/292303538_Simultaneous_T1_and_T2_Brain_
 
 ## B1-sensitive Encoding for Magnetic Resonance Fingerprinting  
 http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
+
+## 6.2 T1 T2 PD M0
+
+## 6.3 ASL
+
+## 6.4 ADC
+
+## 6.5 T2*
 
 
 # 7 Number of time-point to be acquired
@@ -107,6 +116,23 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 
 ## Clinical Application
 
+#### MR指纹技术在医学影像诊断中的应用 10.1360/N052018-00070 
+[link][pdf]   http://www.cnki.com.cn/Article/CJFDTotal-JRYX201801022.htm                      
+[news] http://news.medlive.cn/xctmr/info-progress/show-148410_241.html
+
+
+#### 磁共振指纹技术及其进展
+[link][pdf] http://engine.scichina.com/doi/10.1360/N052018-00070 
+            https://www.researchgate.net/publication/327725207_cigongzhenzhiwenchengxiangjishujiqizuixinjinzhan
+
+#### 基于SVD的快速组匹配“磁共振指纹”新方法
+[link][pdf] http://www.swyxgcyj.com/oa/DArticle.aspx?type=view&id=201702004  http://www.cnki.com.cn/Article/CJFDTotal-SDSG201702004.htm   https://www.xueshu.com/swyxgcyj/201702/29538292.html
+[news]
+
+
+#### 基于扩散预备快速自旋回波磁共振指纹技术的同时T2和ADC定量测量
+[link][pdf] http://gb.oversea.cnki.net/KCMS/detail/detailall.aspx?filename=1017206095.nh&dbcode=CMFD&dbname=CMFDTEMP
+
 ### Brain
 
 #### Detection of lesions in mesial temporal lobe epilepsy by using MR fingerprinting
@@ -131,6 +157,15 @@ https://pubs.rsna.org/doi/10.1148/radiol.2018172131
 ### Liver
 
 ### Prostate
+
+
+# MRF News
+## Foreign
+
+## 国内
+### 磁共振成像新方法可早期筛查癌症
+[link] http://news.sciencenet.cn/htmlpaper/20133181028840228254.shtm
+
 
 ### Eye
 
