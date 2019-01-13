@@ -1,12 +1,27 @@
 # First work ever: MRI, Magnetic Resonance Imaging 
 
-## Image formation by induced local interactions: examples employing nuclear magnetic resonance
+#### Image formation by induced local interactions: examples employing nuclear magnetic resonance
 [link] https://www.nature.com/articles/242190a0
 [pdf] http://www.bioen.utah.edu/wiki/images/d/dd/Lauterbur.pdf
 [bib] @article{lauterbur1973image,
   title={Image formation by induced local interactions: examples employing nuclear magnetic resonance},
   author={Lauterbur, Paul C and others},
   year={1973}
+}
+
+
+#### Image reconstruction by domain-transform manifold learning
+[link] https://www.nature.com/articles/nature25988
+[pdf] https://sci-hub.tw/10.1038/nature25988
+[bib] @article{zhu2018image,
+	title={Image reconstruction by domain-transform manifold learning},
+	author={Zhu, Bo and Liu, Jeremiah Z and Cauley, Stephen F and Rosen, Bruce R and Rosen, Matthew S},
+	journal={Nature},
+	volume={555},
+	number={7697},
+	pages={487},
+	year={2018},
+	publisher={Nature Publishing Group}
 }
 
 
@@ -36,8 +51,39 @@ Dr. Gaby Pell https://elsc.huji.ac.il/enu/blog/2017/11/magnetic-resonance-finger
 
 
 ## 1.2 Repeatability 
-Multicenter and multiscanner reproducibility of Magnetic Resonance Fingerprinting relaxometry in the brain
-https://www.ismrm.org/18/program_files/O18.htm   0798
+
+#### Repeatability of magnetic resonance fingerprinting T1 and T2 estimates assessed using the ISMRM/NIST MRI system phantom
+[doi] 10.1002/mrm.26509
+[link] https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.26509
+[pdf]  https://sci-hub.tw/10.1002/mrm.26509
+[bib] @article{jiang2017repeatability,
+	title={Repeatability of magnetic resonance fingerprinting T1 and T2 estimates assessed using the ISMRM/NIST MRI system phantom},
+	author={Jiang, Yun and Ma, Dan and Keenan, Kathryn E and Stupic, Karl F and Gulani, Vikas and Griswold, Mark A},
+	journal={Magnetic resonance in medicine},
+	volume={78},
+	number={4},
+	pages={1452--1457},
+	year={2017},
+	publisher={Wiley Online Library}
+}
+
+
+#### Repeatability of 2D FISP MR Fingerprinting in the  at 1.5T and 3.0 T
+[link] https://cds.ismrm.org/protected/18MPresentations/abstracts/0682.html
+[pdf]
+
+[bib] @inproceedings{xie2017fast,
+	title={Repeatability of 2D FISP MR Fingerprinting in the  at 1.5T and 3.0 T},
+	author={Guido Buonincontri1,2, Laura Biagi1,3, Alessandra Retico2, Michela Tosetti1,3, Paolo Cecchi4, Mirco Cosottini1,4,5, Pedro A Gómez6, Rolf F Schulte7, Mary McLean8, Frank Riemer9, Ferdia Gallagher9, Martin J Graves9, and Joshua D Kaggie9},
+	booktitle={ISMRM 2018},
+	pages={},
+	year={2018},
+	organization={https://cds.ismrm.org/protected/18MPresentations/abstracts/0682.html}
+}
+
+
+#### Multicenter and multiscanner reproducibility of Magnetic Resonance Fingerprinting relaxometry in the brain
+[link][pdf] https://www.ismrm.org/18/program_files/O18.htm   0798
 https://cds.ismrm.org/protected/18MPresentations/abstracts/0798.html
 
 ## 1.3 Robustness
@@ -158,16 +204,20 @@ https://pubs.rsna.org/doi/10.1148/radiol.2018172131
 
 ### Prostate
 
+### Eye
+
+### Knee
+
+
 
 # MRF News
 ## Foreign
+###
+[link] 
+
 
 ## 国内
 ### 磁共振成像新方法可早期筛查癌症
 [link] http://news.sciencenet.cn/htmlpaper/20133181028840228254.shtm
 
-
-### Eye
-
-### Knee
 
