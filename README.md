@@ -52,7 +52,7 @@ https://cds.ismrm.org/protected/18MPresentations/abstracts/0798.html
 
 
 # 6 Acquisition parameter space to be manipulated
-T1, T2, PD, M0, B0, B1, B1*, T2*, ADC, ASL, Water Fraction Score， $\Delta$ B
+T1, T2, PD, M0, B0, B1, B1*, T2*, ADC, ASL, Water Fraction Score， $S\delta B$$
 ## 6.1 T1 T2
 ### Simultaneous T1 and T2 brain relaxometry in asymptomatic volunteers using magnetic resonance fingerprinting
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4727840/
