@@ -217,7 +217,24 @@ Jiang
 # 11 Acceleration of MRF
 
 # 12 Optimization of MRF
-### Optimal Experiment Design for Magnetic Resonance Fingerprinting: Cramér-Rao Bound Meets Spin Dynamics
+
+
+#### Matrix completion-based reconstruction for undersampled magnetic resonance fingerprinting data
+[link] [pdf] https://www.sciencedirect.com/science/article/pii/S0730725X17300383
+[bib] @article{doneva2017matrix,
+  title={Matrix completion-based reconstruction for undersampled magnetic resonance fingerprinting data},
+  author={Doneva, Mariya and Amthor, Thomas and Koken, Peter and Sommer, Karsten and B{\"o}rnert, Peter},
+  journal={Magnetic resonance imaging},
+  volume={41},
+  pages={41--52},
+  year={2017},
+  publisher={Elsevier}
+}
+
+
+
+
+#### Optimal Experiment Design for Magnetic Resonance Fingerprinting: Cramér-Rao Bound Meets Spin Dynamics
 
 [link] https://ieeexplore.ieee.org/document/7590737
        https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5464426/
