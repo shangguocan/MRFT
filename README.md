@@ -2,6 +2,19 @@
 A Toolkit For MRF, which will be written with different programming language, such as MATLAB， Python，C++. 
 
 
+Magnetic Resonance Fingerprinting  https://www.nature.com/articles/nature11971
+
+@article{ma2013magnetic,
+  title={Magnetic resonance fingerprinting},
+  author={Ma, Dan and Gulani, Vikas and Seiberlich, Nicole and Liu, Kecheng and Sunshine, Jeffrey L and Duerk, Jeffrey L and Griswold, Mark A},
+  journal={Nature},
+  volume={495},
+  number={7440},
+  pages={187},
+  year={2013},
+  publisher={Nature Publishing Group}
+}
+
 MRF Research Point,  
 Dr. Gaby Pell https://elsc.huji.ac.il/enu/blog/2017/11/magnetic-resonance-fingerprinting
 
