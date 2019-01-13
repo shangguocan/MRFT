@@ -175,6 +175,18 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 
 # 10 Partial Volume Effect, PVE
 
+
+#### The partial volume problem in MR fingerprinting from a Bayesian perspective
+[link] https://www.ismrm.org/16/program_files/O46.htm (0435)  https://cds.ismrm.org/protected/16MPresentations/abstracts/0435.html
+[video] https://cds.ismrm.org/protected/16MPresentations/videos/0435/1454_McGivney_435.mp4
+[bib] @inproceedings{mcgivney2016partial,
+  title={The partial volume problem in MR fingerprinting from a Bayesian perspective},
+  author={McGivney, DF and Deshmane, A and Jiang, Y and Ma, D and Griswold, MA},
+  booktitle={Proc. Int. Soc. Magn. Reson. Med},
+  volume={435},
+  year={2016}
+}
+
 #### Bayesian estimation of multicomponent relaxation parameters in magnetic resonance fingerprinting
 Jiang
 
