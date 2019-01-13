@@ -44,6 +44,7 @@ https://cds.ismrm.org/protected/18MPresentations/abstracts/0798.html
 ### Simultaneous T1 and T2 brain relaxometry in asymptomatic volunteers using magnetic resonance fingerprinting
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4727840/
 https://www.researchgate.net/publication/292303538_Simultaneous_T1_and_T2_Brain_Relaxometry_in_Asymptomatic_Volunteers_Using_Magnetic_Resonance_Fingerprinting
+
 [pdf] http://flipbook.tomography.org/publication/?i=456839&ver=html5&p=64#{%22page%22:%2264%22,%22issue_id%22:456839}
 
 @article{badve2015simultaneous,
