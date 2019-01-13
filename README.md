@@ -58,7 +58,7 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 
 ### Brain
 
-Detection of lesions in mesial temporal lobe epilepsy by using MR fingerprinting
+#### Detection of lesions in mesial temporal lobe epilepsy by using MR fingerprinting
 https://pubs.rsna.org/doi/10.1148/radiol.2018172131
 
 @article{liao2018detection,
