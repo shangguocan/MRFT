@@ -73,6 +73,23 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 # 11 Acceleration of MRF
 
 # 12 Optimization of MRF
+### Optimal Experiment Design for Magnetic Resonance Fingerprinting: Cramér-Rao Bound Meets Spin Dynamics
+
+[link] https://ieeexplore.ieee.org/document/7590737
+       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5464426/
+
+[pdf] https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7590737
+      https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8481484
+      https://arxiv.org/abs/1710.08062    https://arxiv.org/pdf/1710.08062.pdf
+
+[bib] @article{zhao2018optimal,
+  title={Optimal experiment design for magnetic resonance fingerprinting: Cramer-Rao bound meets spin dynamics},
+  author={Zhao, Bo and Haldar, Justin P and Liao, Congyu and Ma, Dan and Jiang, Yun and Griswold, Mark A and Setsompop, Kawin and Wald, Lawrence L},
+  journal={IEEE transactions on medical imaging},
+  year={2018},
+  publisher={IEEE}
+}
+
 
 # 13 Application of MRF
 
