@@ -172,6 +172,34 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 }
 
 # 9 Pattern recognition algorithm
+## 9.1 Dictionary-Based 
+### 9.1.1 Dot Production
+### 9.1.2 SVD
+
+#### Comparison of Different Approaches of Pattern Matching for MR Fingerprinting
+[link] https://www.ismrm.org/15/program_files/MonEPS09.htm  3394. 63    
+
+[pdf]  https://cds.ismrm.org/protected/15MPresentations/abstracts/3394.pdf
+
+[bib] 
+
+### 9.1.3 Fast Group Matching
+### 9.1.4 Low Rank
+### 9.1.5 Maxmium Likelihood
+### 9.1.6 CS MRF
+### 9.1.7 Cover Tree
+#### BLIP
+#### CoverBLIP
+### 9.1.8 Iterative Method
+### 9.1.9 Dictionary-based Deep Learning
+
+
+## 9.2 Dictionary-free
+### 9.2.1 Kalman Filter
+### 9.2.2 Nonleast Mean Square
+### 9.2.3 Dictionary-free Deep Learning
+ 
+
 
 # 10 Partial Volume Effect, PVE
 
