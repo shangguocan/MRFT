@@ -9,7 +9,7 @@ Dr. Gaby Pell https://elsc.huji.ac.il/enu/blog/2017/11/magnetic-resonance-finger
 
 1.1 Repeatability 
 Multicenter and multiscanner reproducibility of Magnetic Resonance Fingerprinting relaxometry in the brain
-https://www.ismrm.org/18/program\files/O18.htm   0798
+https://www.ismrm.org/18/program_files/O18.htm   0798
 https://cds.ismrm.org/protected/18MPresentations/abstracts/0798.html
 
 2 Sensitivity to all forms of motion and other artefacts
@@ -32,3 +32,9 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 8 Dictionary complication and compression
 
 9 Pattern recognition algorithm
+
+10 Partial Volume Effect, PVE
+
+11 Acceleration of MRF
+
+12 Optimization of MRF
