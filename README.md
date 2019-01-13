@@ -20,10 +20,15 @@ Dr. Gaby Pell https://elsc.huji.ac.il/enu/blog/2017/11/magnetic-resonance-finger
 
 # 1 Accuracy, repeatability and robustness of parameters quantification
 
-## 1.1 Repeatability 
+## 1.1 Accuracy
+
+
+## 1.2 Repeatability 
 Multicenter and multiscanner reproducibility of Magnetic Resonance Fingerprinting relaxometry in the brain
 https://www.ismrm.org/18/program_files/O18.htm   0798
 https://cds.ismrm.org/protected/18MPresentations/abstracts/0798.html
+
+## 1.3 Robustness
 
 # 2 Sensitivity to all forms of motion and other artefacts
 
@@ -35,6 +40,22 @@ https://cds.ismrm.org/protected/18MPresentations/abstracts/0798.html
 
 
 # 6 Acquisition parameter space to be manipulated
+## 6.1 T1 T2
+### Simultaneous T1 and T2 brain relaxometry in asymptomatic volunteers using magnetic resonance fingerprinting
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4727840/
+https://www.researchgate.net/publication/292303538_Simultaneous_T1_and_T2_Brain_Relaxometry_in_Asymptomatic_Volunteers_Using_Magnetic_Resonance_Fingerprinting
+[pdf] http://flipbook.tomography.org/publication/?i=456839&ver=html5&p=64#{%22page%22:%2264%22,%22issue_id%22:456839}
+
+@article{badve2015simultaneous,
+	title={Simultaneous T1 and T2 brain relaxometry in asymptomatic volunteers using magnetic resonance fingerprinting},
+	author={Badve, Chaitra and Yu, Alice and Rogers, Matthew and Ma, Dan and Liu, Yiying and Schluchter, Mark and Sunshine, Jeffrey and Griswold, Mark and Gulani, Vikas},
+	journal={Tomography: a journal for imaging research},
+	volume={1},
+	number={2},
+	pages={136},
+	year={2015},
+	publisher={NIH Public Access}
+}
 
 ## B1-sensitive Encoding for Magnetic Resonance Fingerprinting  
 http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
