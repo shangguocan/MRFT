@@ -24,6 +24,20 @@
 	publisher={Nature Publishing Group}
 }
 
+#### Image Reconstruction is a New Frontier of Machine Learning
+[link] https://ieeexplore.ieee.org/document/8359079
+[pdf] https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8359079
+[bib] @article{wang2018image,
+  title={Image reconstruction is a new frontier of machine learning},
+  author={Wang, Ge and Ye, Jong Chu and Mueller, Klaus and Fessler, Jeffrey A},
+  journal={IEEE transactions on medical imaging},
+  volume={37},
+  number={6},
+  pages={1289--1296},
+  year={2018},
+  publisher={IEEE}
+}
+
 
 # MRFT
 A Toolkit For MRF, which will be written with different programming language, such as MATLAB， Python，C++. 
