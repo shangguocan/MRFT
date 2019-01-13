@@ -1,10 +1,22 @@
+# First work ever: MRI, Magnetic Resonance Imaging 
+
+## Image formation by induced local interactions: examples employing nuclear magnetic resonance
+[link] https://www.nature.com/articles/242190a0
+[pdf] http://www.bioen.utah.edu/wiki/images/d/dd/Lauterbur.pdf
+[bib] @article{lauterbur1973image,
+  title={Image formation by induced local interactions: examples employing nuclear magnetic resonance},
+  author={Lauterbur, Paul C and others},
+  year={1973}
+}
+
+
 # MRFT
 A Toolkit For MRF, which will be written with different programming language, such as MATLAB， Python，C++. 
 
+## Magnetic Resonance Fingerprinting  
+[link] https://www.nature.com/articles/nature11971
 
-Magnetic Resonance Fingerprinting  https://www.nature.com/articles/nature11971
-
-@article{ma2013magnetic,
+[bib] @article{ma2013magnetic,
   title={Magnetic resonance fingerprinting},
   author={Ma, Dan and Gulani, Vikas and Seiberlich, Nicole and Liu, Kecheng and Sunshine, Jeffrey L and Duerk, Jeffrey L and Griswold, Mark A},
   journal={Nature},
