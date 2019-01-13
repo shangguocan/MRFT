@@ -158,6 +158,19 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 
 # 8 Dictionary complication and compression
 
+## Dictionary search
+
+#### Magnetic Resonance Fingerprinting using A Fast Dictionary Searching Algorithm: MRF-ZOOM
+[link] https://ieeexplore.ieee.org/document/8486645
+[pdf] https://www.researchgate.net/publication/278734020_MRF-ZOOM_A_Fast_Dictionary_Searching_Algorithm_for_Magnetic_Resonance_Fingerprinting
+[bib] @article{wang2018magnetic,
+	title={Magnetic Resonance Fingerprinting using A Fast Dictionary Searching Algorithm: MRF-ZOOM},
+	author={Wang, Ze and Zhang, Jian and Cui, Di and Xie, Jun and Lyu, Mengye and Hui, Edward and Wu, Ed},
+	journal={IEEE Transactions on Biomedical Engineering},
+	year={2018},
+	publisher={IEEE}
+}
+
 # 9 Pattern recognition algorithm
 
 # 10 Partial Volume Effect, PVE
