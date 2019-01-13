@@ -219,6 +219,20 @@ Jiang
 # 12 Optimization of MRF
 
 
+####  Robust sliding-window reconstruction for Accelerating the acquisition of MR fingerprinting
+[link] https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.26521
+[pdf]  https://sci-hub.tw/10.1002/mrm.26521
+[bib] @article{cao2017robust,
+  title={Robust sliding-window reconstruction for Accelerating the acquisition of MR fingerprinting},
+  author={Cao, Xiaozhi and Liao, Congyu and Wang, Zhixing and Chen, Ying and Ye, Huihui and He, Hongjian and Zhong, Jianhui},
+  journal={Magnetic resonance in medicine},
+  volume={78},
+  number={4},
+  pages={1579--1588},
+  year={2017},
+  publisher={Wiley Online Library}
+}
+
 #### Matrix completion-based reconstruction for undersampled magnetic resonance fingerprinting data
 [link] [pdf] https://www.sciencedirect.com/science/article/pii/S0730725X17300383
 [bib] @article{doneva2017matrix,
