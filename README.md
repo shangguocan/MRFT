@@ -108,6 +108,20 @@ https://cds.ismrm.org/protected/18MPresentations/abstracts/0798.html
 
 # 4 Base Image sequence
 
+## SSFP
+
+#### Fast parameter mapping at 7T with SSFP MR Fingerprinting using 3D radial trajectories
+[link] https://www.ismrm.org/18/program_files/EP12.htm 4260 https://cds.ismrm.org/protected/18MPresentations/abstracts/4260.html
+[pdf] http://campar.in.tum.de/pub/buonincontri2018ismrm/buonincontri2018ismrm.pdf
+[eposter] https://cds.ismrm.org/protected/18MPresentations/eposters/4260/
+
+
+## bSSFP
+## FISP
+## TrueFISP
+## EPI
+## balanced-GRE
+
 #### Normal Values of Magnetic Relaxation Parameters of Spine Components with the Synthetic MRI Sequence
 [link] http://www.ajnr.org/content/39/4/788
 [pdf] https://www.researchgate.net/profile/Maria_Vargas8/publication/323498755_Normal_Values_of_Magnetic_Relaxation_Parameters_of_Spine_Components_with_the_Synthetic_MRI_Sequence/links/5aa8dcf6a6fdcc1b59c67325/Normal-Values-of-Magnetic-Relaxation-Parameters-of-Spine-Components-with-the-Synthetic-MRI-Sequence.pdf
@@ -120,6 +134,20 @@ https://cds.ismrm.org/protected/18MPresentations/abstracts/0798.html
 }
 
 # 5 Readout strategy including trajectory, interleaves, degree of undersampling
+## 5.1 Trajectory 
+
+#### Spiral keyhole imaging for MR fingerprinting
+[link] https://www.ismrm.org/17/program_files/EP07.htm  4021  https://cds.ismrm.org/protected/17MPresentations/abstracts/4021.html
+
+[video] https://cds.ismrm.org/protected/17MPresentations/eposters/4021/
+
+[pdf] http://campar.in.tum.de/pub/buonincontri2017ismrm/buonincontri2017ismrm.pdf
+
+[bib]
+
+## 5.2 Interleaves
+
+## 5.3 Degree of undersampling
 
 
 # 6 Acquisition parameter space to be manipulated
@@ -202,6 +230,16 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 
 
 # 10 Partial Volume Effect, PVE
+
+
+#### Exploring Subvoxel Structures in Brain Tumors using Magnetic Resonance Fingerprinting
+[link] https://www.ismrm.org/17/program_files/EP12.htm   https://cds.ismrm.org/protected/17MPresentations/abstracts/4696.html
+
+[video] https://cds.ismrm.org/protected/17MPresentations/eposters/4696/
+
+[pdf]
+
+[bib]
 
 
 #### The partial volume problem in MR fingerprinting from a Bayesian perspective
