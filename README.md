@@ -223,7 +223,7 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 
 
 #### Quantification of relaxation times in MR Fingerprinting using deep learning
-[link] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5909960/ 
+[link] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5909960/      https://www.semanticscholar.org/author/Zhenghan-Fang/49597523
 
 [pdf] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5909960/pdf/nihms957822.pdf
 
@@ -237,7 +237,7 @@ organization={NIH Public Access}
 }
 
 #### Deep learning for fast and spatially-constrained tissue quantification from highly-undersampled data in magnetic resonance fingerprinting (MRF)
-[link] https://link.springer.com/book/10.1007/978-3-030-00919-9
+[link] https://link.springer.com/book/10.1007/978-3-030-00919-9     https://www.semanticscholar.org/author/Zhenghan-Fang/49597523
 
 [pdf] http://mingxia.web.unc.edu/files/2018/09/Fang2018_Chapter_DeepLearningForFastAndSpatiall.pdf
 
