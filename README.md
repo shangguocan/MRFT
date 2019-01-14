@@ -388,6 +388,14 @@ Jiang
 [link][pdf] http://engine.scichina.com/doi/10.1360/N052018-00070 
             https://www.researchgate.net/publication/327725207_cigongzhenzhiwenchengxiangjishujiqizuixinjinzhan
 
+[bib] @article{li2018technique,
+  title={The technique of magnetic resonance fingerprinting and its latest development},
+  author={LI, Min and DONG, ZhengChao and ZHANG, XueWu and ZHANG, XiuMing},
+  journal={SCIENTIA SINICA Vitae},
+  year={2018},
+  publisher={Science China Press}
+}
+
 #### 基于SVD的快速组匹配“磁共振指纹”新方法
 [link][pdf] http://www.swyxgcyj.com/oa/DArticle.aspx?type=view&id=201702004  http://www.cnki.com.cn/Article/CJFDTotal-SDSG201702004.htm   https://www.xueshu.com/swyxgcyj/201702/29538292.html
 [news]
