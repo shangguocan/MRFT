@@ -222,6 +222,20 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 ### 9.1.9 Dictionary-based Deep Learning
 
 
+#### Quantification of relaxation times in MR Fingerprinting using deep learning
+[link] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5909960/ 
+
+[pdf] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5909960/pdf/nihms957822.pdf
+
+[bib] @inproceedings{fang2017quantification,
+title={Quantification of relaxation times in MR Fingerprinting using deep learning},
+author={Fang, Zhenghan and Chen, Yong and Lin, Weili and Shen, Dinggang},
+booktitle={Proceedings of the International Society for Magnetic Resonance in Medicine... Scientific Meeting and Exhibition. International Society for Magnetic Resonance in Medicine. Scientific Meeting and Exhibition},
+volume={25},
+year={2017},
+organization={NIH Public Access}
+}
+
 #### Deep learning for fast and spatially-constrained tissue quantification from highly-undersampled data in magnetic resonance fingerprinting (MRF)
 [link] https://link.springer.com/book/10.1007/978-3-030-00919-9
 
