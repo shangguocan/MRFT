@@ -222,6 +222,23 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 ### 9.1.9 Dictionary-based Deep Learning
 
 
+#### Deep learning for fast and spatially-constrained tissue quantification from highly-undersampled data in magnetic resonance fingerprinting (MRF)
+[link] https://link.springer.com/book/10.1007/978-3-030-00919-9
+
+[pdf] http://mingxia.web.unc.edu/files/2018/09/Fang2018_Chapter_DeepLearningForFastAndSpatiall.pdf
+
+[code] https://github.com/ZhenghanFang
+
+[bib] @inproceedings{fang2018deep,
+  title={Deep learning for fast and spatially-constrained tissue quantification from highly-undersampled data in magnetic resonance fingerprinting (MRF)},
+  author={Fang, Zhenghan and Chen, Yong and Liu, Mingxia and Zhan, Yiqiang and Lin, Weili and Shen, Dinggang},
+  booktitle={International Workshop on Machine Learning in Medical Imaging},
+  pages={398--405},
+  year={2018},
+  organization={Springer}
+}
+
+
 ## 9.2 Dictionary-free
 ### 9.2.1 Kalman Filter
 ### 9.2.2 Nonleast Mean Square
