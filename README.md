@@ -2,7 +2,9 @@
 
 #### Image formation by induced local interactions: examples employing nuclear magnetic resonance
 [link] https://www.nature.com/articles/242190a0
+
 [pdf] http://www.bioen.utah.edu/wiki/images/d/dd/Lauterbur.pdf
+
 [bib] @article{lauterbur1973image,
   title={Image formation by induced local interactions: examples employing nuclear magnetic resonance},
   author={Lauterbur, Paul C and others},
@@ -12,7 +14,9 @@
 
 #### Image reconstruction by domain-transform manifold learning
 [link] https://www.nature.com/articles/nature25988
+
 [pdf] https://sci-hub.tw/10.1038/nature25988
+
 [bib] @article{zhu2018image,
 	title={Image reconstruction by domain-transform manifold learning},
 	author={Zhu, Bo and Liu, Jeremiah Z and Cauley, Stephen F and Rosen, Bruce R and Rosen, Matthew S},
@@ -68,8 +72,11 @@ Dr. Gaby Pell https://elsc.huji.ac.il/enu/blog/2017/11/magnetic-resonance-finger
 
 #### Repeatability of magnetic resonance fingerprinting T1 and T2 estimates assessed using the ISMRM/NIST MRI system phantom
 [doi] 10.1002/mrm.26509
+
 [link] https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.26509
+
 [pdf]  https://sci-hub.tw/10.1002/mrm.26509
+
 [bib] @article{jiang2017repeatability,
 	title={Repeatability of magnetic resonance fingerprinting T1 and T2 estimates assessed using the ISMRM/NIST MRI system phantom},
 	author={Jiang, Yun and Ma, Dan and Keenan, Kathryn E and Stupic, Karl F and Gulani, Vikas and Griswold, Mark A},
@@ -84,6 +91,7 @@ Dr. Gaby Pell https://elsc.huji.ac.il/enu/blog/2017/11/magnetic-resonance-finger
 
 #### Repeatability of 2D FISP MR Fingerprinting in the  at 1.5T and 3.0 T
 [link] https://cds.ismrm.org/protected/18MPresentations/abstracts/0682.html
+
 [pdf]
 
 [bib] @inproceedings{xie2017fast,
@@ -98,6 +106,7 @@ Dr. Gaby Pell https://elsc.huji.ac.il/enu/blog/2017/11/magnetic-resonance-finger
 
 #### Multicenter and multiscanner reproducibility of Magnetic Resonance Fingerprinting relaxometry in the brain
 [link][pdf] https://www.ismrm.org/18/program_files/O18.htm   0798
+
 https://cds.ismrm.org/protected/18MPresentations/abstracts/0798.html
 
 ## 1.3 Robustness
@@ -112,7 +121,9 @@ https://cds.ismrm.org/protected/18MPresentations/abstracts/0798.html
 
 #### Fast parameter mapping at 7T with SSFP MR Fingerprinting using 3D radial trajectories
 [link] https://www.ismrm.org/18/program_files/EP12.htm 4260 https://cds.ismrm.org/protected/18MPresentations/abstracts/4260.html
+
 [pdf] http://campar.in.tum.de/pub/buonincontri2018ismrm/buonincontri2018ismrm.pdf
+
 [eposter] https://cds.ismrm.org/protected/18MPresentations/eposters/4260/
 
 
@@ -124,7 +135,9 @@ https://cds.ismrm.org/protected/18MPresentations/abstracts/0798.html
 
 #### Normal Values of Magnetic Relaxation Parameters of Spine Components with the Synthetic MRI Sequence
 [link] http://www.ajnr.org/content/39/4/788
+
 [pdf] https://www.researchgate.net/profile/Maria_Vargas8/publication/323498755_Normal_Values_of_Magnetic_Relaxation_Parameters_of_Spine_Components_with_the_Synthetic_MRI_Sequence/links/5aa8dcf6a6fdcc1b59c67325/Normal-Values-of-Magnetic-Relaxation-Parameters-of-Spine-Components-with-the-Synthetic-MRI-Sequence.pdf
+
 [bib] @article{drake2018normal,
   title={Normal Values of Magnetic Relaxation Parameters of Spine Components with the Synthetic MRI Sequence},
   author={Drake-P{\'e}rez, M and Delattre, BMA and Boto, J and Fitsiori, A and Lovblad, K-O and Boudabbous, Sana and Vargas, MI},
@@ -155,6 +168,7 @@ T1, T2, PD, M0, B0, B1, B1*, T2*, ADC, ASL, Water Fraction Score， $S\delta B$$
 ## 6.1 T1 T2
 ### Simultaneous T1 and T2 brain relaxometry in asymptomatic volunteers using magnetic resonance fingerprinting
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4727840/
+
 https://www.researchgate.net/publication/292303538_Simultaneous_T1_and_T2_Brain_Relaxometry_in_Asymptomatic_Volunteers_Using_Magnetic_Resonance_Fingerprinting
 
 [pdf] http://flipbook.tomography.org/publication/?i=456839&ver=html5&p=64#{%22page%22:%2264%22,%22issue_id%22:456839}
@@ -190,7 +204,9 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 
 #### Magnetic Resonance Fingerprinting using A Fast Dictionary Searching Algorithm: MRF-ZOOM
 [link] https://ieeexplore.ieee.org/document/8486645
+
 [pdf] https://www.researchgate.net/publication/278734020_MRF-ZOOM_A_Fast_Dictionary_Searching_Algorithm_for_Magnetic_Resonance_Fingerprinting
+
 [bib] @article{wang2018magnetic,
 	title={Magnetic Resonance Fingerprinting using A Fast Dictionary Searching Algorithm: MRF-ZOOM},
 	author={Wang, Ze and Zhang, Jian and Cui, Di and Xie, Jun and Lyu, Mengye and Hui, Edward and Wu, Ed},
@@ -220,6 +236,87 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 #### CoverBLIP
 ### 9.1.8 Iterative Method
 ### 9.1.9 Dictionary-based Deep Learning
+
+
+#### Deep Learning for Magnetic Resonance Fingerprinting: A New Approach for Predicting Quantitative Parameter Values from Time Series
+[link] https://www.ncbi.nlm.nih.gov/pubmed/28883201
+
+[pdf] https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2017/Hoppe17-DLF.pdf    https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2018/Hoppe18-DLF.pdf
+
+[bib] @article{hoppe2017deep,
+  title={Deep Learning for Magnetic Resonance Fingerprinting: A New Approach for Predicting Quantitative Parameter Values from Time Series},
+  author={Hoppe, Elisabeth and K{\"o}rzd{\"o}rfer, Gregor and W{\"u}rfl, Tobias and Wetzl, Jens and Lugauer, Felix and Pfeuffer, Josef and Maier, Andreas},
+  journal={Stud Health Technol Inform},
+  volume={243},
+  pages={202--206},
+  year={2017}
+}
+
+
+#### MR fingerprinting deep reconstruction network (DRONE)
+[link] https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27198  https://arxiv.org/abs/1710.05267
+
+[pdf] https://sci-hub.tw/10.1002/mrm.27198    http://martinos.org/lfi/pdf/MRF_DRONE.pdf  https://arxiv.org/ftp/arxiv/papers/1710/1710.05267.pdf
+
+[bib] @article{cohen2018mr,
+  title={MR fingerprinting deep reconstruction network (DRONE)},
+  author={Cohen, Ouri and Zhu, Bo and Rosen, Matthew S},
+  journal={Magnetic resonance in medicine},
+  volume={80},
+  number={3},
+  pages={885--894},
+  year={2018},
+  publisher={Wiley Online Library}
+}
+
+
+
+#### Better than Real: Complex-valued Neural Nets for MRI Fingerprinting
+[link] https://arxiv.org/abs/1707.00070
+
+[pdf] https://arxiv.org/pdf/1707.00070.pdf
+
+[bib] @inproceedings{virtue2017better,
+  title={Better than real: Complex-valued neural nets for MRI fingerprinting},
+  author={Virtue, Patrick and Stella, X Yu and Lustig, Michael},
+  booktitle={Image Processing (ICIP), 2017 IEEE International Conference on},
+  pages={3953--3957},
+  year={2017},
+  organization={IEEE}
+}
+
+
+
+#### Magnetic Resonance Fingerprinting Reconstruction via Spatiotemporal Convolutional Neural Networks
+[link] https://arxiv.org/abs/1807.06356
+
+[pdf] https://arxiv.org/pdf/1807.06356.pdf
+
+[bib] @inproceedings{balsiger2018magnetic,
+  title={Magnetic resonance fingerprinting reconstruction via spatiotemporal convolutional neural networks},
+  author={Balsiger, Fabian and Konar, Amaresha Shridhar and Chikop, Shivaprasad and Chandran, Vimal and Scheidegger, Olivier and Geethanath, Sairam and Reyes, Mauricio},
+  booktitle={International Workshop on Machine Learning for Medical Image Reconstruction},
+  pages={39--46},
+  year={2018},
+  organization={Springer}
+}
+
+
+
+#### Circumventing the Curse of Dimensionality in Magnetic Resonance Fingerprinting through a Deep Learning Approach
+[link] https://arxiv.org/abs/1811.11477
+
+[pdf] https://arxiv.org/pdf/1811.11477.pdf
+
+[bib] @article{barbieri2018circumventing,
+  title={Circumventing the Curse of Dimensionality in Magnetic Resonance Fingerprinting through a Deep Learning Approach},
+  author={Barbieri, Marco and Brizi, Leonardo and Giampieri, Enrico and Solera, Francesco and Castellani, Gastone and Testa, Claudia and Remondini, Daniel},
+  journal={arXiv preprint arXiv:1811.11477},
+  year={2018}
+}
+
+
+
 
 
 #### Quantification of relaxation times in MR Fingerprinting using deep learning
@@ -272,7 +369,18 @@ organization={NIH Public Access}
 ### 9.2.3 Dictionary-free Deep Learning
 
 
-#### 
+#### A deep learning approach for Magnetic Resonance Fingerprinting / Geometry of Deep Learning for Magnetic Resonance Fingerprinting
+[link] https://www.researchgate.net/publication/327496314_A_deep_learning_approach_for_Magnetic_Resonance_Fingerprinting 
+https://www.semanticscholar.org/paper/A-deep-learning-approach-for-Magnetic-Resonance-Golbabaee-Chen/0d90b1572bffc4fe1ed745304987de560670a48d    https://arxiv.org/abs/1809.01749
+
+[pdf] https://arxiv.org/pdf/1809.01749.pdf
+
+[bib] @article{golbabaee2018deep,
+  title={A deep learning approach for Magnetic Resonance Fingerprinting},
+  author={Golbabaee, Mohammad and Chen, Dongdong and G{\'o}mez, Pedro A and Menzel, Marion I and Davies, Mike E},
+  journal={arXiv preprint arXiv:1809.01749},
+  year={2018}
+}
  
 
 # 10 Partial Volume Effect, PVE
@@ -458,6 +566,7 @@ https://pubs.rsna.org/doi/10.1148/radiol.2018172131
 # MRF dataset
 #### MRF SOHO  https://figshare.com/articles/Phantom_mat/6866075
 #### Brainweb  http://brainweb.bic.mni.mcgill.ca/
+#### ISMRM/NIST
 
 
 ## 国内
