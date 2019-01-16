@@ -253,12 +253,27 @@ organization={NIH Public Access}
 }
 
 
+#### Magnetic Resonance Fingerprinting using Recurrent Neural Networks
+[link] https://arxiv.org/abs/1812.08155    https://www.groundai.com/project/magnetic-resonance-fingerprinting-using-recurrent-neural-networks/
+
+[pdf] https://arxiv.org/pdf/1812.08155.pdf
+
+[bib] @article{oksuz2018magnetic,
+  title={Magnetic Resonance Fingerprinting using Recurrent Neural Networks},
+  author={Oksuz, Ilkay and Cruz, Gastao and Clough, James and Bustin, Aurelien and Fuin, Nicolo and Botnar, Rene M and Prieto, Claudia and King, Andrew P and Schnabel, Julia A},
+  journal={arXiv preprint arXiv:1812.08155},
+  year={2018}
+}
+
+
 ## 9.2 Dictionary-free
 ### 9.2.1 Kalman Filter
 ### 9.2.2 Nonleast Mean Square
 ### 9.2.3 Dictionary-free Deep Learning
- 
 
+
+#### 
+ 
 
 # 10 Partial Volume Effect, PVE
 
@@ -439,6 +454,10 @@ https://pubs.rsna.org/doi/10.1148/radiol.2018172131
 ## Foreign
 ###
 [link] 
+
+# MRF dataset
+#### MRF SOHO  https://figshare.com/articles/Phantom_mat/6866075
+#### Brainweb  http://brainweb.bic.mni.mcgill.ca/
 
 
 ## 国内
