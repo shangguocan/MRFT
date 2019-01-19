@@ -113,6 +113,32 @@ https://cds.ismrm.org/protected/18MPresentations/abstracts/0798.html
 
 # 2 Sensitivity to all forms of motion and other artefacts
 
+
+## undersampling artefacts
+
+#### Effect of spiral undersampling patterns on FISP MRF parameter maps
+[link] [pdf] https://www.sciencedirect.com/science/article/pii/S0730725X18304016
+
+[bib] @article{korzdorfer2019effect,
+  title={Effect of spiral undersampling patterns on FISP MRF parameter maps},
+  author={K{\"o}rzd{\"o}rfer, Gregor and Pfeuffer, Josef and Kluge, Thomas and Gebhardt, Matthias and Hensel, Bernhard and Meyer, Craig H and Nittka, Mathias},
+  journal={Magnetic Resonance Imaging},
+  year={2019},
+  publisher={Elsevier}
+}
+
+#### Spatial biases in Magnetic Resonance Fingerprinting parameter maps arising from undersampling patterns
+
+[link] http://indexsmart.mirasmart.com/ISMRM2017/PDFfiles/3956.html
+
+[bib] @inproceedings{korzdorfer2017spatial,
+  title={Spatial biases in magnetic resonance fingerprinting parameter maps arising from undersampling patterns},
+  author={K{\"o}rzd{\"o}rfer, G and Kluge, T and Pfeuffer, J and Griswold, M and Jiang, Y and Ma, D},
+  booktitle={Proceedings of the 25th Annual Meeting of ISMRM Annual Meeting of ISMRM, Honolulu, HI},
+  volume={3956},
+  year={2017}
+}
+
 # 3 Sensitivity to noise
 
 # 4 Base Image sequence
