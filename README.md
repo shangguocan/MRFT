@@ -675,8 +675,10 @@ https://pubs.rsna.org/doi/10.1148/radiol.2018172131
 # MRF Team
 
 
-#### 凯斯西储大学 Case Center for Imaging Research
-[link] https://case.edu/medicine/ccir/
+#### 凯斯西储大学 
+[link] Case Center for Imaging Research  https://case.edu/medicine/ccir/
+
+       http://engineering.case.edu/ebme/
 [people] Mark Griswold  https://case.edu/medicine/ccir/faculty/mark-griswold
 
 [PhDthesis] https://etd.ohiolink.edu/     https://etd.ohiolink.edu/pg_6?::NO:::
