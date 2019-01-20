@@ -155,6 +155,26 @@ https://cds.ismrm.org/protected/18MPresentations/abstracts/0798.html
 
 # 3 Sensitivity to noise
 
+#### Using Gradient Waveforms Derived from Music in MR Fingerprinting (MRF) to Increase Patient Comfort in MRI
+[link] https://www.ismrm.org/14/program_files/Session02.htm
+
+[pdf] https://cds.ismrm.org/protected/14MPresentations/abstracts/0026.pdf
+
+[video] https://cds.ismrm.org/protected/14MPresentations/0026/   https://cds.ismrm.org/protected/14MPresentations/0026/1045-Ma.mp4
+
+[bib] 
+
+[bib1] @article{ma2016music,
+  title={Music-based magnetic resonance fingerprinting to improve patient comfort during MRI examinations},
+  author={Ma, Dan and Pierre, Eric Y and Jiang, Yun and Schluchter, Mark D and Setsompop, Kawin and Gulani, Vikas and Griswold, Mark A},
+  journal={Magnetic resonance in medicine},
+  volume={75},
+  number={6},
+  pages={2303--2314},
+  year={2016},
+  publisher={Wiley Online Library}
+}
+
 # 4 Base Image sequence
 
 ## SSFP
@@ -228,6 +248,31 @@ https://www.researchgate.net/publication/292303538_Simultaneous_T1_and_T2_Brain_
 http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 
 ## 6.2 T1 T2 PD M0
+
+#### Simultaneous T1, T2, Diffusion and Proton Density Quantification with MR Fingerprinting
+[link] https://www.ismrm.org/14/program_files/Session02.htm
+
+[pdf] https://cds.ismrm.org/protected/14MPresentations/abstracts/0028.pdf
+
+[video] https://cds.ismrm.org/protected/14MPresentations/0028/   https://cds.ismrm.org/protected/14MPresentations/0028/1109-Jiang.mp4
+
+[bib] @article{jiang2013simultaneous,
+  title={Simultaneous T1, T2, diffusion and proton density quantification with MR fingerprinting},
+  author={Jiang, Yun and Ma, Dan and Wright, KL and Seiberlich, Nicole and Gulani, Vikas and Griswold, Mark A},
+  journal={Magn. Reson. Imaging},
+  volume={38},
+  number={1},
+  pages={173--9},
+  year={2013}
+}
+
+@inproceedings{jiang2014simultaneous,
+  title={Simultaneous T1, T2, diffusion and proton density quantification with MR fingerprinting [abstr]},
+  author={Jiang, Y and Ma, D and Wright, KL and Seiberlich, N and Gulani, V and Griswold, MA},
+  booktitle={Proceedings of the Twenty-Second Meeting of the International Society for Magnetic Resonance in Medicine. Berkeley, Calif: International Society for Magnetic Resonance in Medicine},
+  volume={28},
+  year={2014}
+}
 
 ## 6.3 ASL
 
