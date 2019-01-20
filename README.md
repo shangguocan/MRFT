@@ -672,3 +672,17 @@ https://pubs.rsna.org/doi/10.1148/radiol.2018172131
 [link] http://news.sciencenet.cn/htmlpaper/20133181028840228254.shtm
 
 
+# MRF Team
+
+#### 密歇根大学 Mingjie Gao
+[link] http://web.eecs.umich.edu/~gmingjie/
+
+
+#### 德国洪堡大学
+[link] http://wias-berlin.de/people/papafitsoros/MRF/    http://www.wias-berlin.de/publications/wias-publ/run.jsp?template=abstract&type=Preprint&year=2018&number=2528
+
+#### 德国海德堡大学 Benedikt Rieger, M.Sc.
+[link] https://www.umm.uni-heidelberg.de/inst/cbtm/ckm/mitarbeiter/personalpage/rieger.html
+https://www.uni-heidelberg.de/results.html?cx=011868209755949426626%3A6yzqy3rcxue&cof=FORID%3A11&ie=UTF-8&q=Magnetic+resonance+fingerprinting&sa.x=0&sa.y=0&siteurl=www.uni-heidelberg.de%2Fsuche.html&ref=www.uni-heidelberg.de%2F&ss=
+
+
