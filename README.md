@@ -70,6 +70,20 @@ Dr. Gaby Pell https://elsc.huji.ac.il/enu/blog/2017/11/magnetic-resonance-finger
 
 ## 1.2 Repeatability 
 
+
+#### Validation of Tissue Characterization in Mixed Voxels Using MR Fingerprinting 
+[link] 
+
+[pdf] https://cds.ismrm.org/protected/14MProceedings/files/0094.pdf
+
+[bib] @inproceedings{deshmane2014validation,
+  title={Validation of tissue characterization in mixed voxels using MR fingerprinting},
+  author={Deshmane, Anagha Vishwas and Ma, Dan and Jiang, Yun and Fisher, Elizabeth and Seiberlich, Nicole and Gulani, Vikas and Griswold, Mark},
+  booktitle={In proceedings of the 22nd annual meeting of ISMRM meeting \& exhibition in Milan, Italy},
+  pages={0094},
+  year={2014}
+}
+
 #### Repeatability of magnetic resonance fingerprinting T1 and T2 estimates assessed using the ISMRM/NIST MRI system phantom
 [doi] 10.1002/mrm.26509
 
@@ -475,7 +489,20 @@ Jiang
 # 11 Acceleration of MRF
 
 # 12 Optimization of MRF
+#### Magnetic Resonance Fingerprinting Trajectory Optimization
+[link] https://www.ismrm.org/14/program_files/Session02.htm 
 
+[pdf] https://cds.ismrm.org/protected/14MPresentations/abstracts/0027.pdf
+
+[video] https://cds.ismrm.org/protected/14MPresentations/0027/
+
+[bib] @inproceedings{cohen2014magnetic,
+  title={Magnetic resonance fingerprinting trajectory optimization},
+  author={Cohen, O and Sarracanie, M and Armstrong, BD and Ackerman, JL and Rosen, MS},
+  booktitle={Proc Int Soc Magn Reson Med},
+  volume={27},
+  year={2014}
+}
 
 ####  Robust sliding-window reconstruction for Accelerating the acquisition of MR fingerprinting
 [link] https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.26521
