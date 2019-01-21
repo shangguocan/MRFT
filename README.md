@@ -322,6 +322,20 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 ### 9.1.8 Iterative Method
 ### 9.1.9 Dictionary-based Deep Learning
 
+#### Better than real: Complex-valued neural nets for MRI fingerprinting
+
+[link] 
+
+[pdf]
+
+[bib] @inproceedings{virtue2017better,
+  title={Better than real: Complex-valued neural nets for MRI fingerprinting},
+  author={Virtue, Patrick and Stella, X Yu and Lustig, Michael},
+  booktitle={Image Processing (ICIP), 2017 IEEE International Conference on},
+  pages={3953--3957},
+  year={2017},
+  organization={IEEE}
+}
 
 #### Deep Learning for Magnetic Resonance Fingerprinting: A New Approach for Predicting Quantitative Parameter Values from Time Series
 [link] https://www.ncbi.nlm.nih.gov/pubmed/28883201
