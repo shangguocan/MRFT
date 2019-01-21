@@ -47,7 +47,7 @@
 A Toolkit For MRF, which will be written with different programming language, such as MATLAB， Python，C++. 
 
 ## Magnetic Resonance Fingerprinting  
-[link] https://www.nature.com/articles/nature11971
+[link][pdf] https://www.nature.com/articles/nature11971
 
 [bib] @article{ma2013magnetic,
   title={Magnetic resonance fingerprinting},
@@ -301,14 +301,26 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 }
 
 # 9 Pattern recognition algorithm
+Parameter quantification algorithms could be divided into two classes: Dictionary-based and Dictionary-free.
+
 ## 9.1 Dictionary-Based 
+Dictionary-based parameter quantification is the most fundamental method which explore the temporal information of MRF. 
 ### 9.1.1 Dot Production
-####
-[link] 
 
-[pdf]
+#### Magnetic Resonance Fingerprinting  
+[link][pdf] https://www.nature.com/articles/nature11971
 
-[bib]
+[bib] @article{ma2013magnetic,
+  title={Magnetic resonance fingerprinting},
+  author={Ma, Dan and Gulani, Vikas and Seiberlich, Nicole and Liu, Kecheng and Sunshine, Jeffrey L and Duerk, Jeffrey L and Griswold, Mark A},
+  journal={Nature},
+  volume={495},
+  number={7440},
+  pages={187},
+  year={2013},
+  publisher={Nature Publishing Group}
+}
+
 
 ### 9.1.2 SVD
 #### SVD compression for magnetic resonance fingerprinting in the time domain
@@ -325,6 +337,19 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
   pages={2311--2322},
   year={2014},
   publisher={IEEE}
+}
+
+#### SVD的快速组匹配“磁共振指纹”新方法
+[link][pdf] http://www.swyxgcyj.com/oa/DArticle.aspx?type=view&id=201702004  http://www.cnki.com.cn/Article/CJFDTotal-SDSG201702004.htm   https://www.xueshu.com/swyxgcyj/201702/29538292.html
+
+[bib] @article{黄敏2017基于,
+  title={基于SVD的快速组匹配“磁共振指纹”新方法},
+  author={黄敏 and 范玲玲 and 干博文 and 陈军波},
+  journal={生物医学工程研究},
+  volume={36},
+  number={2},
+  pages={112-115},
+  year={2017},
 }
 
 
@@ -417,24 +442,74 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 
 
 ### 9.1.5 Maxmium Likelihood
-####
-[link] 
+#### Maximum likelihood reconstruction for magnetic resonance fingerprinting
+[link][pdf] https://ieeexplore.ieee.org/document/7412760 
 
-[pdf]
+[doi] 10.1109/TMI.2016.2531640
 
-[bib]
+[bib] @article{zhao2016maximum,
+  title={Maximum likelihood reconstruction for magnetic resonance fingerprinting},
+  author={Zhao, Bo and Setsompop, Kawin and Ye, Huihui and Cauley, Stephen F and Wald, Lawrence L},
+  journal={IEEE transactions on medical imaging},
+  volume={35},
+  number={8},
+  pages={1812--1823},
+  year={2016},
+  publisher={IEEE}
+}
 
 ### 9.1.6 CS MRF
-####
-[link] 
+#### A compressed sensing framework for magnetic resonance fingerprinting
+[link] https://epubs.siam.org/doi/abs/10.1137/130947246  https://arxiv.org/abs/1312.2465
 
-[pdf]
+[pdf] https://arxiv.org/pdf/1312.2465.pdf
 
-[bib]
+[bib] @article{davies2014compressed,
+  title={A compressed sensing framework for magnetic resonance fingerprinting},
+  author={Davies, Mike and Puy, Gilles and Vandergheynst, Pierre and Wiaux, Yves},
+  journal={SIAM Journal on Imaging Sciences},
+  volume={7},
+  number={4},
+  pages={2623--2656},
+  year={2014},
+  publisher={SIAM}
+}
+
+#### Magnetic Resonance Fingerprinting with Compressed Sensing and Distance Metric Learning
+[link]https://www.sciencedirect.com/science/article/pii/S0925231215014101   https://www.researchgate.net/publication/283036556_Magnetic_Resonance_Fingerprinting_with_Compressed_Sensing_and_Distance_Metric_Learning
+
+[pdf] https://sci-hub.tw/10.1016/j.neucom.2015.09.077
+
+[bib] @article{wang2016magnetic,
+  title={Magnetic Resonance Fingerprinting with compressed sensing and distance metric learning},
+  author={Wang, Zhe and Li, Hongsheng and Zhang, Qinwei and Yuan, Jing and Wang, Xiaogang},
+  journal={Neurocomputing},
+  volume={174},
+  pages={560--570},
+  year={2016},
+  publisher={Elsevier}
+}
+
+
 
 ### 9.1.7 Cover Tree
 #### BLIP
-#### CoverBLIP
+#### CoverBLIP: scalable iterative matched filtering for MR Fingerprint recovery    /   CoverBLIP: accelerated and scalable iterative matched-filtering for Magnetic Resonance Fingerprint reconstruction
+[link] https://arxiv.org/abs/1810.01967
+
+[pdf] https://arxiv.org/ftp/arxiv/papers/1809/1809.02503.pdf    https://arxiv.org/pdf/1810.01967.pdf
+
+[code] https://github.com/mgolbabaee/CoverBLIP
+
+[bib] @article{golbabaee2018coverblip,
+  title={CoverBLIP: accelerated and scalable iterative matched-filtering for Magnetic Resonance Fingerprint reconstruction},
+  author={Golbabaee, Mohammad and Chen, Zhouye and Wiaux, Yves and Davies, Mike},
+  journal={arXiv preprint arXiv:1810.01967},
+  year={2018}
+}
+
+
+
 
 
 ### 9.1.8 Iterative Method
@@ -602,8 +677,34 @@ IEEE Trans. Med. Imag., 2018.
 
 
 ## 9.2 Dictionary-free
+Compared with dictionary-based parameter quantification algorithm, Dictionary-free bypasses the huge memory storage and computation burden, especially when the kinds of parmaters to be reconstructed grows to several kinds, the memory consumption is a exponential growth, often up to several hundred GB, which is not plausible in realistic clinical application.
 ### 9.2.1 Kalman Filter
+#### MR fingerprinting reconstruction with Kalman filter
+[link][pdf]  https://www.sciencedirect.com/science/article/pii/S0730725X17300759  
+
+[bib] @article{zhang2017mr,
+  title={MR fingerprinting reconstruction with Kalman filter},
+  author={Zhang, Xiaodi and Zhou, Zechen and Chen, Shiyang and Chen, Shuo and Li, Rui and Hu, Xiaoping},
+  journal={Magnetic Resonance Imaging},
+  year={2017},
+  publisher={Elsevier}
+}
+
+
 ### 9.2.2 Nonleast Mean Square
+#### Dictionary-free MR Fingerprinting reconstruction of balanced-GRE sequences
+[link] https://arxiv.org/abs/1711.08905
+
+[pdf] https://arxiv.org/pdf/1711.08905.pdf
+
+[bib] @article{sbrizzi2017dictionary,
+  title={Dictionary-free MR Fingerprinting reconstruction of balanced-GRE sequences},
+  author={Sbrizzi, Alessandro and Bruijnen, Tom and van der Heide, Oscar and Luijten, Peter and van den Berg, Cornelis AT},
+  journal={arXiv preprint arXiv:1711.08905},
+  year={2017}
+}
+
+
 ### 9.2.3 Dictionary-free Deep Learning
 
 
@@ -886,6 +987,11 @@ https://github.com/welcheb/Hamburg_MRF_workshop_VUMC_results
 SPURS（顶替NUFFT）
 
 [code] http://webee.technion.ac.il/Sites/People/YoninaEldar/software_det14.php
+
+#### CoverBLIP
+[paper] https://arxiv.org/search/?query=CoverBLIP&searchtype=all&source=header  https://arxiv.org/ftp/arxiv/papers/1809/1809.02503.pdf    
+
+[code] https://github.com/mgolbabaee/CoverBLIP
 
 #### DL MRF
 [code] https://github.com/SylvainLan/mrf_dl
