@@ -324,9 +324,9 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 
 #### Better than real: Complex-valued neural nets for MRI fingerprinting
 
-[link] 
+[link] https://arxiv.org/abs/1707.00070
 
-[pdf]
+[pdf] https://www1.icsi.berkeley.edu/~stellayu/publication/doc/2017complexICIP.pdf   https://arxiv.org/pdf/1707.00070.pdf
 
 [bib] @inproceedings{virtue2017better,
   title={Better than real: Complex-valued neural nets for MRI fingerprinting},
@@ -707,5 +707,11 @@ https://pubs.rsna.org/doi/10.1148/radiol.2018172131
 #### 德国海德堡大学 Benedikt Rieger, M.Sc.
 [link] https://www.umm.uni-heidelberg.de/inst/cbtm/ckm/mitarbeiter/personalpage/rieger.html
 https://www.uni-heidelberg.de/results.html?cx=011868209755949426626%3A6yzqy3rcxue&cof=FORID%3A11&ie=UTF-8&q=Magnetic+resonance+fingerprinting&sa.x=0&sa.y=0&siteurl=www.uni-heidelberg.de%2Fsuche.html&ref=www.uni-heidelberg.de%2F&ss=
+
+
+
+##### SIMENS 
+[link] https://www.healthcare.siemens.com/magnetic-resonance-imaging/magnetom-world/hot-topics/mr-fingerprinting
+[ISMRM MRF] https://www.healthcare.siemens.com.br/magnetic-resonance-imaging/magnetom-world/publications/ismrm2
 
 
