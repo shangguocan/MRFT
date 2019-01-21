@@ -303,7 +303,30 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 # 9 Pattern recognition algorithm
 ## 9.1 Dictionary-Based 
 ### 9.1.1 Dot Production
+####
+[link] 
+
+[pdf]
+
+[bib]
+
 ### 9.1.2 SVD
+#### SVD compression for magnetic resonance fingerprinting in the time domain
+[link] https://ieeexplore.ieee.org/document/6851901?arnumber=6851901   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4753055/
+
+[pdf] https://sci-hub.tw/10.1109/tmi.2014.2337321
+ 
+[bib] @article{mcgivney2014svd,
+  title={SVD compression for magnetic resonance fingerprinting in the time domain},
+  author={McGivney, Debra F and Pierre, Eric and Ma, Dan and Jiang, Yun and Saybasili, Haris and Gulani, Vikas and Griswold, Mark A},
+  journal={IEEE transactions on medical imaging},
+  volume={33},
+  number={12},
+  pages={2311--2322},
+  year={2014},
+  publisher={IEEE}
+}
+
 
 #### Comparison of Different Approaches of Pattern Matching for MR Fingerprinting
 [link] https://www.ismrm.org/15/program_files/MonEPS09.htm  3394. 63    
@@ -313,12 +336,107 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 [bib] 
 
 ### 9.1.3 Fast Group Matching
+#### Fast group matching for MR fingerprinting reconstruction
+[link][pdf]  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4700821/   https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.25439
+
+[bib] @article{cauley2015fast,
+  title={Fast group matching for MR fingerprinting reconstruction},
+  author={Cauley, Stephen F and Setsompop, Kawin and Ma, Dan and Jiang, Yun and Ye, Huihui and Adalsteinsson, Elfar and Griswold, Mark A and Wald, Lawrence L},
+  journal={Magnetic resonance in medicine},
+  volume={74},
+  number={2},
+  pages={523--528},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+
 ### 9.1.4 Low Rank
+####
+[link] 
+
+[pdf]
+
+[bib]
+
+####
+[link] 
+
+[pdf]
+
+[bib]
+
+####
+[link] 
+
+[pdf]
+
+[bib]
+
+####
+[link] 
+
+[pdf]
+
+[bib]
+
+####
+[link] 
+
+[pdf]
+
+[bib]
+
+####
+[link] 
+
+[pdf]
+
+[bib]
+
+####
+[link] 
+
+[pdf]
+
+[bib]
+
+####
+[link] 
+
+[pdf]
+
+[bib]
+
+####
+[link] 
+
+[pdf]
+
+[bib]
+
+
 ### 9.1.5 Maxmium Likelihood
+####
+[link] 
+
+[pdf]
+
+[bib]
+
 ### 9.1.6 CS MRF
+####
+[link] 
+
+[pdf]
+
+[bib]
+
 ### 9.1.7 Cover Tree
 #### BLIP
 #### CoverBLIP
+
+
 ### 9.1.8 Iterative Method
 ### 9.1.9 Dictionary-based Deep Learning
 
@@ -417,6 +535,17 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 
 
 
+#### Magnetic Resonance Fingerprinting using Recurrent Neural Networks
+[link] https://arxiv.org/abs/1812.08155    https://www.groundai.com/project/magnetic-resonance-fingerprinting-using-recurrent-neural-networks/
+
+[pdf] https://arxiv.org/pdf/1812.08155.pdf
+
+[bib] @article{oksuz2018magnetic,
+  title={Magnetic Resonance Fingerprinting using Recurrent Neural Networks},
+  author={Oksuz, Ilkay and Cruz, Gastao and Clough, James and Bustin, Aurelien and Fuin, Nicolo and Botnar, Rene M and Prieto, Claudia and King, Andrew P and Schnabel, Julia A},
+  journal={arXiv preprint arXiv:1812.08155},
+  year={2018}
+}
 
 #### Quantification of relaxation times in MR Fingerprinting using deep learning
 [link] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5909960/      https://www.semanticscholar.org/author/Zhenghan-Fang/49597523
@@ -449,17 +578,27 @@ organization={NIH Public Access}
 }
 
 
-#### Magnetic Resonance Fingerprinting using Recurrent Neural Networks
-[link] https://arxiv.org/abs/1812.08155    https://www.groundai.com/project/magnetic-resonance-fingerprinting-using-recurrent-neural-networks/
 
-[pdf] https://arxiv.org/pdf/1812.08155.pdf
+#### Shallow Learning with Kernels for Dictionary-Free Magnetic Resonance Fingerprinting
+[link] http://web.eecs.umich.edu/~gmingjie/
 
-[bib] @article{oksuz2018magnetic,
-  title={Magnetic Resonance Fingerprinting using Recurrent Neural Networks},
-  author={Oksuz, Ilkay and Cruz, Gastao and Clough, James and Bustin, Aurelien and Fuin, Nicolo and Botnar, Rene M and Prieto, Claudia and King, Andrew P and Schnabel, Julia A},
-  journal={arXiv preprint arXiv:1812.08155},
-  year={2018}
+[pdf] http://web.eecs.umich.edu/~gmingjie/doc/nataraj-17-slw.pdf
+
+[slide] http://web.eecs.umich.edu/~gmingjie/doc/nataraj-17-slw_presentation.pdf
+
+[bib] @inproceedings{nataraj2017shallow,
+  title={Shallow learning with kernels for dictionary-free magnetic resonance fingerprinting},
+  author={Nataraj, Gopal and Gao, Mingjie and Assl{\"a}nder, Jakob and Scott, Clayton and Fessler, Jeffrey A},
+  booktitle={ISMRM Workshop on MR Fingerprinting},
+  year={2017}
 }
+
+[code] https://gitlab.eecs.umich.edu/fessler/qmri    https://github.com/gopal-nataraj/perk
+
+[paper] Gopal Nataraj, Jon-Fredrik Nielsen, Clayton D Scott, J A Fessler:
+Dictionary-free MRI PERK: Parameter estimation via regression with kernels.
+IEEE Trans. Med. Imag., 2018.
+[http://doi.org/10.1109/TMI.2018.2817547]
 
 
 ## 9.2 Dictionary-free
@@ -764,6 +903,13 @@ SPURS（顶替NUFFT）
 [pdf] http://web.eecs.umich.edu/~gmingjie/doc/nataraj-17-slw.pdf
 
 [slide] http://web.eecs.umich.edu/~gmingjie/doc/nataraj-17-slw_presentation.pdf
+
+[bib] @inproceedings{nataraj2017shallow,
+  title={Shallow learning with kernels for dictionary-free magnetic resonance fingerprinting},
+  author={Nataraj, Gopal and Gao, Mingjie and Assl{\"a}nder, Jakob and Scott, Clayton and Fessler, Jeffrey A},
+  booktitle={ISMRM Workshop on MR Fingerprinting},
+  year={2017}
+}
 
 [code] https://gitlab.eecs.umich.edu/fessler/qmri    https://github.com/gopal-nataraj/perk
 
