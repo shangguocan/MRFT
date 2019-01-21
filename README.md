@@ -706,6 +706,7 @@ https://pubs.rsna.org/doi/10.1148/radiol.2018172131
 
 #### 德国海德堡大学 Benedikt Rieger, M.Sc.
 [link] https://www.umm.uni-heidelberg.de/inst/cbtm/ckm/mitarbeiter/personalpage/rieger.html
+
 https://www.uni-heidelberg.de/results.html?cx=011868209755949426626%3A6yzqy3rcxue&cof=FORID%3A11&ie=UTF-8&q=Magnetic+resonance+fingerprinting&sa.x=0&sa.y=0&siteurl=www.uni-heidelberg.de%2Fsuche.html&ref=www.uni-heidelberg.de%2F&ss=
 
 
@@ -713,5 +714,66 @@ https://www.uni-heidelberg.de/results.html?cx=011868209755949426626%3A6yzqy3rcxu
 ##### SIMENS 
 [link] https://www.healthcare.siemens.com/magnetic-resonance-imaging/magnetom-world/hot-topics/mr-fingerprinting
 [ISMRM MRF] https://www.healthcare.siemens.com.br/magnetic-resonance-imaging/magnetom-world/publications/ismrm2
+
+
+
+# MRF Codes
+#### MRI_Ostenson_MRF_MFI
+[paper] Multi-frequency interpolation in spiral magnetic resonance fingerprinting for correction of off-resonance blurring（2017-9）
+
+[link] http://www.sciencedirect.com/science/article/pii/S0730725X17301224
+
+[code] https://github.com/jostenson/MRI_Ostenson_MRF_MFI    https://github.com/welcheb/Reproducible_Research
+
+
+#### Hamburg_MRF
+https://github.com/welcheb/Hamburg_MRF_workshop_VUMC_results
+
+#### LR ADMM MRF(NYU_MRF_Recon)
+[paper] 2017-3-5 Low rank alternating direction method of multipliers reconstruction for MR fingerprinting
+
+[link] http://onlinelibrary.wiley.com/doi/10.1002/mrm.26639/full
+
+[code] https://bitbucket.org/asslaender/nyu_mrf_recon
+
+#### Pnp MRF
+[code] https://bitbucket.org/macloos/pnp-mrf/overview
+
+#### Low Rank MRF
+[code] http://webee.technion.ac.il/Sites/People/YoninaEldar/software_det18.php 
+
+[paper] Low Rank Magnetic Resonance Fingerprinting（2017-7-27）
+
+SPURS（顶替NUFFT）
+
+[code] http://webee.technion.ac.il/Sites/People/YoninaEldar/software_det14.php
+
+#### DL MRF
+[code] https://github.com/SylvainLan/mrf_dl
+
+
+#### Deep learning for tissue parameter estimation in magnetic resonance fingerprinting
+[link] https://github.com/ZhenghanFang/MRF_DL
+
+[paper] 
+
+
+#### Shallow Learning with Kernels for Dictionary-Free Magnetic Resonance Fingerprinting
+[link] http://web.eecs.umich.edu/~gmingjie/
+
+[pdf] http://web.eecs.umich.edu/~gmingjie/doc/nataraj-17-slw.pdf
+
+[slide] http://web.eecs.umich.edu/~gmingjie/doc/nataraj-17-slw_presentation.pdf
+
+[code] https://gitlab.eecs.umich.edu/fessler/qmri    https://github.com/gopal-nataraj/perk
+
+[paper] Gopal Nataraj, Jon-Fredrik Nielsen, Clayton D Scott, J A Fessler:
+Dictionary-free MRI PERK: Parameter estimation via regression with kernels.
+IEEE Trans. Med. Imag., 2018.
+[http://doi.org/10.1109/TMI.2018.2817547]
+
+
+
+
 
 
