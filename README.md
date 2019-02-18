@@ -280,6 +280,10 @@ http://indexsmart.mirasmart.com/ISMRM2016/PDFfiles/3191.html
 
 ## 6.5 T2*
 
+## Magnetic Transfer
+Mitigating the Effect of Magnetization Transfer in Magnetic Resonance Fingerprinting
+[link] http://indexsmart.mirasmart.com/ISMRM2017/PDFfiles/0074.html
+
 
 # 7 Number of time-point to be acquired
 
