@@ -789,6 +789,12 @@ Jiang
 }
 
 
+#### Partial volume mapping using magnetic resonance fingerprinting
+[link] https://onlinelibrary.wiley.com/doi/abs/10.1002/nbm.4082
+[pdf] https://sci-hub.tw/https://onlinelibrary.wiley.com/doi/abs/10.1002/nbm.4082
+[bib]
+
+
 # 11 Acceleration of MRF
 
 # 12 Optimization of MRF
