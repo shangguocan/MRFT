@@ -680,6 +680,12 @@ IEEE Trans. Med. Imag., 2018.
 [http://doi.org/10.1109/TMI.2018.2817547]
 
 
+#### On the Spatial and Temporal Influence for the Reconstruction of Magnetic Resonance Fingerprinting 
+[link] https://openreview.net/forum?id=HyeuSq9ke4&noteId=SklN3zIBU4
+[pdf]  https://openreview.net/forum?id=HyeuSq9ke4&noteId=SklN3zIBU4
+[code] https://github.com/fabianbalsiger/mrf-reconstruction-midl2019
+
+
 ## 9.2 Dictionary-free
 Compared with dictionary-based parameter quantification algorithm, Dictionary-free bypasses the huge memory storage and computation burden, especially when the kinds of parmaters to be reconstructed grows to several kinds, the memory consumption is a exponential growth, often up to several hundred GB, which is not plausible in realistic clinical application.
 ### 9.2.1 Kalman Filter
